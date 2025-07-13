@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ian Calingasan Mendoza
 
-<!--
-**Ian-C-Mendoza/Ian-C-Mendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Web Developer  
+📚 Currently learning JavaScript, HTML/CSS, and React  
+🔨 Building real-world projects to gain experience  
+🌍 Based in the Philippines  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML5 / CSS3
+- JavaScript (Vanilla)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Goals
+- Build 3 real web projects by the end of the year
+- Land freelance or internship opportunities
+- Constantly learn and grow as a developer
+
+> "Code. Fail. Fix. Learn. Repeat."
